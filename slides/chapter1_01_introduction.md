@@ -67,6 +67,8 @@ A good comment will be short, easy to read, and to the point.
 In Python, we can write comments using the hash (#) symbol. Any text that follows this
 symbol will be commented out.
 
+---
+
 # Multi-Line Comment
 
 ```python

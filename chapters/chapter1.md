@@ -16,7 +16,7 @@ id: 1
 
 </exercise>
 
-<exercise id="3" title="Getting Started">
+<exercise id="2" title="Getting Started">
 
 Let's get started and try to write Python programs. In this exercise, your task is to print:
 
