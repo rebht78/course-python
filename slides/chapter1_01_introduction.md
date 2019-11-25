@@ -9,15 +9,15 @@ speaker notes on the side. Slides can be separated with a divider: ---.
 
 ---
 
-# This is a slide
+# First Program in Python
 
 ```python
-# Print something
-print("Hello world")
+# Add 1 + 1 and print the output of the equation.
+print(1 + 1)
 ```
 
 ```out
-Hello world
+2
 ```
 
 - Slides can have code, bullet points, tables and pretty much all other Markdown
