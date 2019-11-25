@@ -86,3 +86,6 @@ Hello, Python
 
 Notes: To write multiline comments so that you may write more descriptive paragraphs for
 larger portions of code, we would need to use three opening and closing double quotes.
+---
+
+# Let's Practice
