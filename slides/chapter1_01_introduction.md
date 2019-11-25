@@ -49,4 +49,38 @@ Also note that Python is case-sensitive. ```Print``` and ```print``` are two dif
 
 ---
 
-# Let's practice!
+# Comments
+
+```python
+# We have used comments earlier, too
+# Comments & Basic Data Type
+```
+
+```out
+No output is displayed.
+```
+
+Notes: Comments are like notes that you leave behind, They are ignore by the interpreter, meaning that you can write whatever you want, and the computer will ignore it. 
+
+A good comment will be short, easy to read, and to the point.
+
+In Python, we can write comments using the hash (#) symbol. Any text that follows this
+symbol will be commented out.
+
+# Multi-Line Comment
+
+```python
+"""
+this is a
+multi-line 
+comment
+"""
+print('Hello, Python') # this is a single line comment
+```
+
+```out
+Hello, Python
+```
+
+Notes: To write multiline comments so that you may write more descriptive paragraphs for
+larger portions of code, we would need to use three opening and closing double quotes.
