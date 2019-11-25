@@ -17,9 +17,8 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://spacy.io" },
-        { "text": "Source", "url": "https://github.com/ines/course-starter-python" },
-        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-python" }
+        { "text": "Source", "url": "https://github.com/rebht78/course-python" },
+        { "text": "Built with ♥ by Sohel Shaikh", "url": "https://github.com/rebht78/course-python" }
     ],
     "theme": "#de7878"
 }
