@@ -16,47 +16,17 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="3" title="Getting Started">
 
-Let's ask some questions about the slides. Whats the correct answer?
+Let's get started and try to write Python programs. In this exercise, your task is to print:
 
-<choice>
-<opt text="Answer one">
+```Hello, Sherlock```
 
-This is not the correct answer.
-
-</opt>
-
-<opt text="Answer two" correct="true">
-
-Good job!
-
-</opt>
-
-<opt text="Answer three">
-
-This is not correct either.
-
-</opt>
-</choice>
-
-</exercise>
-
-<exercise id="3" title="First steps">
-
-This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
-the one for the instructions below.
-
-You can also use deep links: [go to previous exercise](#2).
-
-- These are instructions and they can have bullet points.
-- The code block below will look for the files `exc_01_03`, `solution_01_03` and
-  `test_01_03` in `/exercises`.
+using Python.
 
 <codeblock id="01_03">
 
-This is a hint.
+Use ```print``` function to print output on the screen.
 
 </codeblock>
 
