@@ -32,7 +32,7 @@ Use ```print``` function to print output on the screen.
 
 </exercise>
 
-<exercise id="3" title="Data Types and Variables" type="slides">
+<exercise id="3" title="Variables and Data Types" type="slides">
 
 <slides source="chapter1_03_data_type_variable">
 </slides>
