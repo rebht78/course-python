@@ -31,3 +31,10 @@ Use ```print``` function to print output on the screen.
 </codeblock>
 
 </exercise>
+
+<exercise id="3" title="Data Types and Variables" type="slides">
+
+<slides source="chapter1_01_data_type_variable">
+</slides>
+
+</exercise>
