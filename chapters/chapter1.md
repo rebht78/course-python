@@ -34,7 +34,7 @@ Use ```print``` function to print output on the screen.
 
 <exercise id="3" title="Data Types and Variables" type="slides">
 
-<slides source="chapter1_01_data_type_variable">
+<slides source="chapter1_03_data_type_variable">
 </slides>
 
 </exercise>
