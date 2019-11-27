@@ -26,9 +26,6 @@ print(episode_name2)
 A Study in Pink
 The Blind Banker
 ```
-
-Notes: Take note that when you are declaring a variable, you are not stating that the variable
-```first_variable``` is equal to 23. What the statement actually means is “assign the value of ```23``` to ```first_variable```”.
 ---
 # Operations on Strings - Index
 
@@ -41,14 +38,33 @@ Notes: Take note that when you are declaring a variable, you are not stating tha
 episode_name = 'A Study in Pink'
 print(episode_name) # this will print A Study in Pink
 print(episode_name[0]) # this will print first character of the string i.e. A
-print(episode_name[-1]) # you can also use negative index
 ```
 
 ```out
 A Study in Pink
 A
+```
+Notes: To access the first character on the string you created, use variable name with index 0 within square brackets as shown in the code.
+---
+# Operations on Strings - Index (contd.)
+
+- You can access other characters by simply specifying their indices.
+- You can also use negative index in Python.
+- Negative index starts from -1
+
+```python
+episode_name = 'A Study in Pink'
+print(episode_name) # this will print A Study in Pink
+print(episode_name[3]) # this will print fourth character, space are counted.
+print(episode_name[-1]) # this will print last character, k
+print(episode_name[-4]) # this will print - P
+```
+
+```out
+A Study in Pink
+t
 k
+P
 ```
 ---
 # Let's Practice
-
