@@ -56,7 +56,7 @@ To simple create variables, you have to use the name and assign it the value usi
 </exercise>
 <exercise id="5" title="Basic Data Types" type="slides">
 
-<slides source="chapter1_05_basic_data_type_variable">
+<slides source="chapter1_05_basic_data_type">
 </slides>
 
 </exercise>
