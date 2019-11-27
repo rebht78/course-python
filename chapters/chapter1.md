@@ -32,9 +32,25 @@ Use ```print``` function to print output on the screen.
 
 </exercise>
 
-<exercise id="3" title="Variables and Data Types" type="slides">
+<exercise id="3" title="Variables" type="slides">
 
 <slides source="chapter1_03_data_type_variable">
 </slides>
+
+</exercise>
+<exercise id="4" title="Practice on Variables">
+
+In these exercises, We'll be working with variables.
+
+Create two variables - ```first_number``` and ```second_number```. Assign value of 5 to them.
+
+Also, create another variable ```result```. ```result``` variable will store addition of ```first_number```
+and ```second_number```.
+
+<codeblock id="01_04">
+
+To simple create variables, you have to use the name and assign it the value using ```=```.
+
+</codeblock>
 
 </exercise>

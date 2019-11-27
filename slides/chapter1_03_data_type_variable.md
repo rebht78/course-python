@@ -50,15 +50,5 @@ print(first_variable) # this will print Sherlock
 Sherlock
 ```
 ---
-# Data Types
-
-In this section, We will be learning following types in Python:
-
-- int
-- str
-- float
-- bool
-
-Above list is not exhaustive, We'll be learning few more types in the subsequent chapters.
----
+# Let's Practice
 
