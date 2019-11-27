@@ -1,11 +1,11 @@
 ---
 type: slides
 ---
-# Variables and Data Types
+# Variables
 
 Notes: We have written simple programs in Python (we've used only ```print``` function). More complex programs work on data. Data such as Student's marks, names and ID. 
 
-In the subsequent slides, We'll understand how to work with Data in Python; We'll be learning Variables and Data Types.
+In the subsequent slides, We'll understand how to work with Data in Python; We'll be learning Variables.
 
 ---
 # What are Variables?

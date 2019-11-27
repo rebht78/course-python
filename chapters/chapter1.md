@@ -40,7 +40,7 @@ Use ```print``` function to print output on the screen.
 </exercise>
 <exercise id="4" title="Practice on Variables">
 
-In these exercises, We'll be working with variables.
+In this exercise, We'll be working with variables.
 
 Create two variables - ```first_number``` and ```second_number```. Assign value of 5 to them.
 
@@ -52,5 +52,11 @@ and ```second_number```.
 To simple create variables, you have to use the name and assign it the value using ```=```.
 
 </codeblock>
+
+</exercise>
+<exercise id="5" title="Basic Data Types" type="slides">
+
+<slides source="chapter1_05_basic_data_type_variable">
+</slides>
 
 </exercise>
