@@ -82,4 +82,17 @@ print(full_name)
 Sherlock Holmes
 ```
 ---
+# Flexibility with Strings
+
+```python
+sentence = 'I told my friend, "Sherlock is my favorite series"' # I have used " qoutes in ' quote
+another_sentence = "It's my father's birthday" # I have used ' quote in " quotes
+print(sentence)
+print(another_sentence)
+```
+```out
+I told my friend, "Sherlock is my favorite series"
+It's my father's birthday
+```
+---
 # Let's Practice
