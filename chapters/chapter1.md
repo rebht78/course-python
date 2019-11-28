@@ -60,3 +60,22 @@ To simple create variables, you have to use the name and assign it the value usi
 </slides>
 
 </exercise>
+<exercise id="6" title="Practice on String">
+
+In this exercise, We'll be working with string data type learnt in the previous section.
+
+Create two variables - ```favorite_detective``` and ```favorite_quote```.
+
+Assign ```'Sherlock'``` to ```favorite_detective```
+Assign ```'Game is ON!``` to ```favorite_quote```
+
+Use ```print``` function to display output in this format:
+
+```Sherlock: "Game is ON!"```
+
+<codeblock id="01_06">
+
+
+</codeblock>
+
+</exercise>
