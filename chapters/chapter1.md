@@ -66,8 +66,8 @@ In this exercise, We'll be working with string data type learnt in the previous 
 
 Create two variables - ```favorite_detective``` and ```favorite_quote```.
 
-Assign ```'Sherlock'``` to ```favorite_detective```
-Assign ```'Game is ON!``` to ```favorite_quote```
+Assign ```Sherlock``` to ```favorite_detective```
+Assign ```Game is ON!``` to ```favorite_quote```
 
 Use ```print``` function to display output in this format:
 

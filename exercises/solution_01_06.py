@@ -1,8 +1,8 @@
 # create favorite_detective variable and assign Sherlock
-___________ = _________
+favorite_detective = 'Sherlock'
 
 # create favorite_quote variable and assign Game is ON!
-___________ = _________
+favorite_quote = '"Game is ON!"'
 
 # print the output, Sherlock: "Game is ON!"
-print(__________)
+print(favorite_detective+': '+favorite_quote)
