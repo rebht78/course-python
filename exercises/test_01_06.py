@@ -6,7 +6,6 @@ def test():
 
     # If an assertion fails, the message will be displayed
     assert "favorite_detective = 'Sherlock'" in __solution__, "Are you creating favorite_detective variable correctly?"
-    assert "favorite_quote = '\"Game is ON!\"'" in __solution__, "Are you creating favorite_quote variable correctly? You need to have double quotes in output"
     assert "print(favorite_detective+': '+favorite_quote)" in __solution__, "Are you printing the output correctly, check the instructions properly?"
     
 
