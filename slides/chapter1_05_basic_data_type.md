@@ -7,13 +7,13 @@ Notes: When we write programs, we need to store data. Data are of various types.
 
 In this section, We will learn how Python deals with data type.
 ---
-# Strings?
+# Strings
 
 - A _String_ is a series of characters.
 - Anything inside quotes is considered a string in Python
 - You can use single quote (') or double quotes (") around your strings.
 ---
-# Example of Strings?
+# Example of Strings
 
 ```python
 episode_name1 = 'A Study in Pink' # this is a string with single quote
@@ -65,6 +65,21 @@ A Study in Pink
 t
 k
 P
+```
+---
+# Operations on Strings - Concatenation
+
+- It is important to understand what you can do with string data types.
+- To concatenate strings, I mean that We want to add one string to the end of another.
+
+```python
+first_name = 'Sherlock'
+last_name = 'Holmes'
+full_name = first_name + ' '+ last_name # note the space between first_name and last_name
+print(full_name)
+```
+```out
+Sherlock Holmes
 ```
 ---
 # Let's Practice
