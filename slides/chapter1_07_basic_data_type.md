@@ -87,4 +87,21 @@ str
 float
 ```
 ---
+# Concatenate Number with String
+
+- Let's say We want to print number with string value.
+- As for example, I want to print: Sherlock lives at 221 B Baker Street.
+- Code for it is given below:
+
+```python
+house_no = 221
+address = 'B Baker Street'
+print('Sherlock lives at '+str(house_no)+'B Baker Street.')
+# Note the use of str() function
+```
+```out
+Sherlock lives at 221 B Baker Street.
+```
+Notes: When you're concatenating string with non-string values (in this example - int), Python is not sure how to interpret non-string values. You have to convert your non-string value to string using ```str()``` function as done in the example. Try to write the same code without using ```str()``` and observe the output.
+---
 # Let's Practice
