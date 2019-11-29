@@ -79,3 +79,9 @@ Use ```print``` function to display output in this format:
 </codeblock>
 
 </exercise>
+<exercise id="7" title="Basic Data Types - Numbers" type="slides">
+
+<slides source="chapter1_07_basic_data_type">
+</slides>
+
+</exercise>
