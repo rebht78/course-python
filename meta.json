@@ -3,7 +3,7 @@
     "title": "Intro to Python for Data Science",
     "slogan": "Free Online Course",
     "description": "In this course, We'll start with Python Basics and then move towards Data Structure in Python. You will be able to write simple and complex scripts in Python by Chapter 4. In Chapter 5, We'll be working with Numpy and Pandas. So this course will help you start your journey into Data Science with a bang. New contents and chapters will be added to this course every week to make it more compehensive.",
-    "bio": "I am Sohel. I am working in NJ Group as Sr. Assistant Manager. I am interested in Web Development, Machine Learning and Data Science. I love to share my knowledge with others and mentor those who're enthusiastic about their IT career",
+    "bio": "I am Sohel. I am interested in Web Development, Machine Learning and Data Science. I love to share my knowledge with others and mentor those who're enthusiastic about their IT career",
     "siteUrl": "https://course-python.netlify.com",
     "twitter": "spacy_io",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
@@ -17,8 +17,7 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Source", "url": "https://github.com/rebht78/course-python" },
-        { "text": "Built with ♥ by Sohel Shaikh", "url": "https://github.com/rebht78/course-python" }
+        { "text": "Built with ♥ by Sohel Shaikh", "url": "" }
     ],
     "theme": "#de7878"
 }
