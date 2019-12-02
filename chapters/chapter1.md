@@ -87,19 +87,13 @@ Use ```print``` function to display output in this format:
 </exercise>
 <exercise id="8" title="Practice on Numbers">
 
-In this exercise, We'll be working with string data type learnt in the previous section.
+In this exercise, We'll be working with numeric data type learnt in the previous section.
 
-Create two variables - ```favorite_detective``` and ```favorite_quote```.
+Create ```power``` and ```base``` variable. 
+Also assign value of 2 and 3 to ```power``` and ```base``` variables respectively.
 
-Assign ```Sherlock``` to ```favorite_detective```
-Assign ```Game is ON!``` to ```favorite_quote```
-
-Use ```print``` function to display output in this format:
-
-```Sherlock: "Game is ON!"```
-
-<codeblock id="01_06">
-
+Your task is to print output of ```base``` raise to ```power```.
+<codeblock id="01_08">
 
 </codeblock>
 
