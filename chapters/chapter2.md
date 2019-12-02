@@ -1,10 +1,9 @@
 ---
-title: 'Chapter 2: Python Data Structures'
+title: 'Chapter 2: Python Statements'
 description:
-  'This chapter will teach you even more stuff and help you learn some new
-  concepts.'
+  'This chapter will help you write Python Statements - if, if...else, for, while'
 prev: /chapter1
-next: null
+next: /chapter2
 type: chapter
 id: 2
 ---

@@ -54,7 +54,7 @@ To simple create variables, you have to use the name and assign it the value usi
 </codeblock>
 
 </exercise>
-<exercise id="5" title="Basic Data Types - String" type="slides">
+<exercise id="5" title="Data Types - String" type="slides">
 
 <slides source="chapter1_05_basic_data_type">
 </slides>
@@ -79,9 +79,28 @@ Use ```print``` function to display output in this format:
 </codeblock>
 
 </exercise>
-<exercise id="7" title="Basic Data Types - Numbers" type="slides">
+<exercise id="7" title="Data Types - Numbers" type="slides">
 
 <slides source="chapter1_07_basic_data_type">
 </slides>
+
+</exercise>
+<exercise id="8" title="Practice on Numbers">
+
+In this exercise, We'll be working with string data type learnt in the previous section.
+
+Create two variables - ```favorite_detective``` and ```favorite_quote```.
+
+Assign ```Sherlock``` to ```favorite_detective```
+Assign ```Game is ON!``` to ```favorite_quote```
+
+Use ```print``` function to display output in this format:
+
+```Sherlock: "Game is ON!"```
+
+<codeblock id="01_06">
+
+
+</codeblock>
 
 </exercise>
