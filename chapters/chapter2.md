@@ -15,5 +15,6 @@ id: 2
 </exercise>
 ---
 <exercise id="2" title="Practice on Operators">
+In this exercise, We'll be working with Operators.
 
 </exercise>
