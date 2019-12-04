@@ -13,3 +13,7 @@ id: 2
 </slides>
 
 </exercise>
+---
+<exercise id="2" title="Practice on Operators">
+
+</exercise>
