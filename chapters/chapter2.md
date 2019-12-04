@@ -1,7 +1,7 @@
 ---
 title: 'Chapter 2: Python Statements'
 description:
-  'This chapter will help you write Python Statements - if, if...else, for, while'
+  'This chapter will introduce you to more basic stuffs in Python such as Operators, Conditional Statements such as if, if...else and Iterative Statements such as while loop'
 prev: /chapter1
 next: /chapter3
 type: chapter
