@@ -13,7 +13,6 @@ id: 2
 </slides>
 
 </exercise>
----
 <exercise id="2" title="Practice on Operators">
 In this exercise, We'll be working with Operators.
 <codeblock id="02_02">
