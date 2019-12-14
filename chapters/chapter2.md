@@ -14,10 +14,12 @@ id: 2
 
 </exercise>
 <exercise id="2" title="Quiz on Operators">
-In this section, You will be given few multiple choice questions on Operators
+In this section, You will be given a multiple choice question on Operators
 
 Question 1: 
+
 Is ```!=``` a relational operator?
+
 <choice>
 <opt text="No, it is not.">
 
@@ -31,25 +33,10 @@ You are aweseome, that's the correct answer!
 
 </opt>
 </choice>
-Question 2: 
-Predict the output of the following code:
-```
-a = 25
-b = 5
-result = a >= b
-print(result)
-```
-<choice>
-<opt text="False">
+</exercise>
+<exercise id="3" title="More Operators" type="slides">
 
-Oops, That's not the correct answer.
+<slides source="chapter1_03_data_type_variable">
+</slides>
 
-</opt>
-
-<opt text="True" correct="true">
-
-You are aweseome, that's the correct answer!
-
-</opt>
-</choice>
 </exercise>
