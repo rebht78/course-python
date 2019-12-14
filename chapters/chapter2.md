@@ -13,11 +13,31 @@ id: 2
 </slides>
 
 </exercise>
-<exercise id="2" title="Practice on Operators">
-In this exercise, We'll be working with Operators.
+<exercise id="2" title="Quiz on Operators">
+In this section, You will be given few multiple choice questions on Operators
+
+Question 1: 
 <codeblock id="02_02">
-
-Your task is to compare three numbers and display which one is greatest.
-
+Predict the output of the following code: 
 </codeblock>
+
+<choice>
+<opt text="True">
+
+Oops, That's not the correct answer.
+
+</opt>
+
+<opt text="False" correct="true">
+
+You are aweseome, that's the correct answer!
+
+</opt>
+
+<opt text="It will not print anything on the screen">
+
+This is not correct either.
+
+</opt>
+</choice>
 </exercise>
