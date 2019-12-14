@@ -17,26 +17,38 @@ id: 2
 In this section, You will be given few multiple choice questions on Operators
 
 Question 1: 
-<codeblock id="02_02">
-Predict the output of the following code: 
-</codeblock>
-
+Is ```!=``` a relational operator?
 <choice>
-<opt text="True">
+<opt text="No, it is not.">
 
 Oops, That's not the correct answer.
 
 </opt>
 
-<opt text="False" correct="true">
+<opt text="Yes, it is" correct="true">
 
 You are aweseome, that's the correct answer!
 
 </opt>
+</choice>
+Question 2: 
+Predict the output of the following code:
+```
+a = 25
+b = 5
+result = a >= b
+print(result)
+```
+<choice>
+<opt text="False">
 
-<opt text="It will not print anything on the screen">
+Oops, That's not the correct answer.
 
-This is not correct either.
+</opt>
+
+<opt text="True" correct="true">
+
+You are aweseome, that's the correct answer!
 
 </opt>
 </choice>
